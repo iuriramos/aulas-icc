@@ -30,8 +30,8 @@ if i != 0:
     
 i = 0
 while i < 10:
-    print (i)
-    
+    print (i) # loop infinito, para sair digite Ctrl+C no terminal.
+
 while i < 10:
     print (i)
     i += 1
